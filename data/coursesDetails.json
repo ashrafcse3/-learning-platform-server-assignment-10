@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Present tense",
+        "description": "The simple present is a verb tense with two main uses. We use the simple present tense when an action is happening right now, or when it happens regularly (or unceasingly, which is why it’s sometimes called present indefinite). Depending on the person, the simple present tense is formed by using the root form or by adding –s or –es to the end. Example- Pauline loves pie.",
+        "img": "https://www.thesaurus.com/e/wp-content/uploads/2021/05/20210525_verbs_presentTense_1000x700-790x310.png"
+    },
+    {
+        "id": 2,
+        "title": "Present perfect continuous",
+        "description": "The present perfect continuous tense (also known as the present perfect progressive tense) shows that something started in the past and is continuing at the present time. The present perfect continuous is formed using the construction has/have been + the present participle (root + -ing). Example- I have been reading War and Peace for a month now.",
+        "img": "https://www.thesaurus.com/e/wp-content/uploads/2021/05/20210520_verbs_presentPerfectContinuousTense_1000x700.png"
+    },
+    {
+        "id": 3,
+        "title": "Present perfect",
+        "description": "The present perfect tense is an English verb tense used for past actions that are related to or continue into the present. It’s easily recognized by the auxiliary verbs (or helper verbs) have and has, as in, 'I have gone fishing since I was a child.' Of all the English verb tenses, the present perfect is one of the most complicated because there’s not always a direct translation in other languages. So in this guide, we explain everything you need to know to use it perfectly, including how and when to use it, with plenty of present perfect tense examples.  Example- Charlotte has become friends with Wilbur.",
+        "img": "https://www.thesaurus.com/e/wp-content/uploads/2021/05/20210511_verbs_presentPerfectTense_1000x700.png"
+    },
+    {
+        "id": 4,
+        "title": "Past perfect",
+        "description": "The past perfect, also called the pluperfect, is a verb tense used to talk about actions that were completed before some point in the past. The past perfect tense is for talking about something that happened before something else. Imagine waking up one morning and stepping outside to grab the newspaper. On your way back in, you notice a mysterious message scrawled across your front door: Tootles was here. When you’re telling this story to your friends later, how would you describe this moment? Example- I turned back to the house and saw that some someone named Tootles had defaced my front door!",
+        "img": "https://www.thesaurus.com/e/wp-content/uploads/2021/05/20210511_verbs_pastPerfectTense_1000x700-790x310.png"
+    },
+    {
+        "id": 5,
+        "title": "Future perfect",
+        "description": "The future perfect is a verb tense used for actions that will be completed before some other point in the future. The future perfect tense is for talking about an action that will be completed between now and some point in the future. Imagine that your friend Linda asks you to take care of her cat for a few days while she goes on a trip. She wants you to come over today at noon so she can show you where to find the cat food and how to mash it up in the bowl just right so that Fluffy will deign to eat it. But you’re busy this afternoon, so you ask Linda if you can come at eight o’clock tonight instead. Example- The parade will have ended by the time Chester gets out of bed. At eight o’clock I will have left.",
+        "img": "https://www.thesaurus.com/e/wp-content/uploads/2021/05/20210511_verbs_futurePerfectTense_1000x700.png"
+    },
+    {
+        "id": 6,
+        "title": "Future perfect continuous",
+        "description": "The future perfect continuous, also sometimes called the future perfect progressive, is a verb tense that describes actions that will continue up until a point in the future. The future perfect continuous consists of will + have + been + the verb’s present participle (verb root + -ing). When we describe an action in the future perfect continuous tense, we are projecting ourselves forward in time and looking back at the duration of that activity. The activity will have begun sometime in the past, present, or in the future, and is expected to continue in the future. Example- In November, I will have been working at my company for three years.",
+        "img": "https://www.thesaurus.com/e/wp-content/uploads/2021/05/20210520_verbs_futurePerfectContinuous_1000x700.png"
+    }
+]
