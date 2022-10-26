@@ -20,6 +20,14 @@ app.get('/courses-details', (req, res) => {
     res.send(coursesDetails);
 })
 
+app.get('/course/:id', (req, res) => {
+    const id = req.params.id;
+    // const selectedCourse = coursesDetails.find(course => course.id === id);
+    // This selected course should be get by using the find method, but when I tried like this I got an undefined value instead of getting a matched result.
+    const selectedCourse = coursesDetails[id - 1]
+    res.send(selectedCourse);
+})
+
 app.listen(port, () => {
     console.log(`server port is running on ${port}`);
 })
